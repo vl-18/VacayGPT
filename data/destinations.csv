@@ -104,7 +104,7 @@ Bekal,Kerala,south,12.3922,75.0313,beach,"Oct,Nov,Dec,Jan,Feb","Jun,Jul,Aug","De
 Thekkady,Kerala,south,9.6,77.1667,wildlife,"Oct,Nov,Dec,Jan,Feb,Mar","Jun,Jul,Aug","Dec,Jan",6,5000,18-30,high,9,6,7,False
 Vagamon,Kerala,south,9.686,76.905,nature,"Oct,Nov,Dec,Jan,Feb,Mar","Jun,Jul,Aug","Dec,Jan",4,4000,15-26,high,8,5,5,True
 Ponmudi,Kerala,south,8.7586,77.1141,hill_station,"Oct,Nov,Dec,Jan,Feb","Jun,Jul,Aug","Dec,Jan",4,3500,16-26,high,7,5,5,True
-Yelagiri,Tamil Nadu,south,12.576,hill_station,78.6404,"Oct,Nov,Dec,Jan,Feb","May,Jun","Dec,Jan",4,3000,18-30,medium,7,5,6,True
+Yelagiri,Tamil Nadu,south,12.576,78.6404,hill_station,"Oct,Nov,Dec,Jan,Feb","May,Jun","Dec,Jan",4,3000,18-30,medium,7,5,6,True
 Horsley Hills,Andhra Pradesh,south,13.6534,78.3921,hill_station,"Oct,Nov,Dec,Jan,Feb","May,Jun","Dec,Jan",4,3500,18-28,medium,7,5,6,True
 Lepakshi,Andhra Pradesh,south,13.8048,77.606,culture,"Oct,Nov,Dec,Jan,Feb","May,Jun","Dec,Jan",5,3000,20-32,low,7,5,7,True
 Srisailam,Andhra Pradesh,south,16.0722,78.8684,nature,"Oct,Nov,Dec,Jan,Feb","May,Jun","Dec,Jan",5,3500,20-32,medium,8,6,7,False
@@ -132,6 +132,6 @@ Jabalpur,Madhya Pradesh,central,23.1815,79.9864,nature,"Oct,Nov,Dec,Jan,Feb","Ma
 Dhuandhar Falls,Madhya Pradesh,central,23.1367,79.8021,nature,"Oct,Nov,Dec,Jan,Feb","May,Jun","Dec,Jan",5,3000,18-30,medium,7,5,7,True
 Rajgir,Bihar,east,25.0173,85.4234,culture,"Oct,Nov,Dec,Jan,Feb","May,Jun","Dec,Jan",6,3000,15-32,medium,8,5,7,False
 Nalanda,Bihar,east,25.1357,85.4436,culture,"Oct,Nov,Dec,Jan,Feb","May,Jun","Dec,Jan",6,3000,15-32,medium,8,5,7,False
-Bodh Gaya,Bihar,east,24.695,culture,84.991,"Oct,Nov,Dec,Jan,Feb","May,Jun","Dec,Jan",8,3500,15-32,low,9,6,9,False
+Bodh Gaya,Bihar,east,24.695,84.991,culture,"Oct,Nov,Dec,Jan,Feb","May,Jun","Dec,Jan",8,3500,15-32,low,9,6,9,False
 Digha,West Bengal,east,21.627,87.508,beach,"Oct,Nov,Dec,Jan,Feb","Jun,Jul,Aug","Dec,Jan",7,3500,22-32,high,8,6,8,False
 Mandarmani,West Bengal,east,21.6565,87.5093,beach,"Oct,Nov,Dec,Jan,Feb","Jun,Jul,Aug","Dec,Jan",6,3500,22-32,high,8,6,7,True
