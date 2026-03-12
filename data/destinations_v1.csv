@@ -1,0 +1,67 @@
+destination,state,region,latitude,longitude,destination_type,best_months,worst_months,crowd_peak_months,crowd_index_avg,budget_per_day_inr,temperature_range_c,rainfall_risk,season_score,crowd_variability,accessibility_score,offbeat
+Manali,Himachal Pradesh,north,32.2396,77.1887,hill_station,"Mar,Apr,May,Jun,Sep,Oct","Jul,Aug","May,Jun,Dec",8,4500,5-22,medium,9,8,8,False
+Shimla,Himachal Pradesh,north,31.1048,77.1734,hill_station,"Mar,Apr,May,Oct,Nov","Jul,Aug","May,Jun,Dec",8,5000,8-24,medium,8,7,9,False
+Leh,Ladakh,north,34.1526,77.5771,mountain,"May,Jun,Jul,Aug,Sep","Jan,Feb,Mar","Jun,Jul",7,6000,5-20,low,9,7,6,False
+Srinagar,Jammu and Kashmir,north,34.0837,74.7973,nature,"Apr,May,Jun,Sep,Oct","Jan,Feb","Apr,May",7,5000,7-25,medium,9,6,7,False
+Dharamshala,Himachal Pradesh,north,32.219,76.3234,hill_station,"Mar,Apr,May,Oct","Jul,Aug","May,Jun",6,4000,10-24,medium,8,6,8,False
+Nainital,Uttarakhand,north,29.3919,79.4542,hill_station,"Mar,Apr,May,Oct,Nov","Jul,Aug","May,Jun",8,4500,10-25,medium,8,7,8,False
+Mussoorie,Uttarakhand,north,30.4598,78.0664,hill_station,"Mar,Apr,May,Oct","Jul,Aug","May,Jun",8,4500,9-24,medium,8,7,8,False
+Rishikesh,Uttarakhand,north,30.0869,78.2676,nature,"Oct,Nov,Dec,Feb,Mar,Apr","Jul,Aug","Mar,Apr",7,3500,12-30,medium,8,6,9,False
+Varanasi,Uttar Pradesh,north,25.3176,82.9739,culture,"Oct,Nov,Dec,Jan,Feb,Mar","May,Jun,Jul","Nov,Dec",8,3000,15-32,low,9,5,9,False
+Agra,Uttar Pradesh,north,27.1767,78.0081,culture,"Oct,Nov,Dec,Jan,Feb,Mar","May,Jun","Dec,Jan",9,3500,10-32,low,8,5,10,False
+Jaipur,Rajasthan,west,26.9124,75.7873,city,"Oct,Nov,Dec,Jan,Feb,Mar","May,Jun","Dec,Jan",8,4000,12-33,low,9,6,10,False
+Udaipur,Rajasthan,west,24.5854,73.7125,culture,"Oct,Nov,Dec,Jan,Feb,Mar","May,Jun","Dec,Jan",7,4500,12-32,low,9,6,9,False
+Jaisalmer,Rajasthan,west,26.9157,70.9083,desert,"Oct,Nov,Dec,Jan,Feb","May,Jun,Jul","Dec,Jan",7,4500,10-30,low,8,6,7,False
+Pushkar,Rajasthan,west,26.4898,74.5511,culture,"Oct,Nov,Dec,Jan,Feb","May,Jun",Nov,7,3500,12-30,low,8,6,7,False
+Mount Abu,Rajasthan,west,24.5926,72.7156,hill_station,"Oct,Nov,Dec,Jan,Feb,Mar","Jul,Aug",Dec,6,4000,12-28,medium,7,6,7,False
+Goa,Goa,west,15.2993,74.124,beach,"Nov,Dec,Jan,Feb,Mar","Jun,Jul,Aug","Dec,Jan",9,6000,22-32,high,9,9,10,False
+Mumbai,Maharashtra,west,19.076,72.8777,city,"Nov,Dec,Jan,Feb","Jun,Jul,Aug",Dec,8,6000,20-32,high,8,6,10,False
+Pune,Maharashtra,west,18.5204,73.8567,city,"Oct,Nov,Dec,Jan,Feb","Jun,Jul",Dec,6,4000,18-30,medium,7,5,10,False
+Mahabaleshwar,Maharashtra,west,17.9237,73.6586,hill_station,"Oct,Nov,Dec,Jan,Feb,Mar","Jul,Aug","Dec,Jan",7,4500,15-28,high,8,7,7,False
+Lonavala,Maharashtra,west,18.7546,73.4062,nature,"Oct,Nov,Dec,Jan,Feb","Jul,Aug","Dec,Jan",8,4000,18-30,high,7,8,9,False
+Alleppey,Kerala,south,9.4981,76.3388,nature,"Oct,Nov,Dec,Jan,Feb,Mar","Jun,Jul,Aug","Dec,Jan",8,5500,22-32,high,9,7,8,False
+Munnar,Kerala,south,10.0889,77.0595,hill_station,"Sep,Oct,Nov,Dec,Jan,Feb,Mar","Jun,Jul",Dec,7,5000,10-25,high,9,6,7,False
+Kochi,Kerala,south,9.9312,76.2673,city,"Oct,Nov,Dec,Jan,Feb","Jun,Jul,Aug","Dec,Jan",7,4500,23-32,high,8,6,9,False
+Ooty,Tamil Nadu,south,11.4064,76.6932,hill_station,"Mar,Apr,May,Sep,Oct","Jun,Jul","Apr,May",8,4500,8-22,medium,8,7,8,False
+Kodaikanal,Tamil Nadu,south,10.2381,77.4892,hill_station,"Mar,Apr,May,Sep,Oct","Jun,Jul","Apr,May",7,4500,10-23,medium,8,7,7,False
+Chennai,Tamil Nadu,south,13.0827,80.2707,city,"Nov,Dec,Jan,Feb","May,Jun","Dec,Jan",7,4000,22-34,medium,7,5,10,False
+Pondicherry,Puducherry,south,11.9416,79.8083,beach,"Oct,Nov,Dec,Jan,Feb,Mar","Jun,Jul","Dec,Jan",8,4500,23-32,medium,8,6,9,False
+Hampi,Karnataka,south,15.335,76.46,culture,"Oct,Nov,Dec,Jan,Feb","Apr,May","Dec,Jan",7,3500,18-33,low,9,6,7,False
+Coorg,Karnataka,south,12.3375,75.8069,nature,"Oct,Nov,Dec,Jan,Feb,Mar","Jun,Jul","Dec,Jan",7,5000,15-28,high,8,7,7,False
+Bangalore,Karnataka,south,12.9716,77.5946,city,"Oct,Nov,Dec,Jan,Feb","Apr,May",Dec,7,5000,18-30,medium,8,5,10,False
+Hyderabad,Telangana,south,17.385,78.4867,city,"Oct,Nov,Dec,Jan,Feb","May,Jun",Dec,7,4000,18-33,low,8,5,10,False
+Kolkata,West Bengal,east,22.5726,88.3639,city,"Oct,Nov,Dec,Jan,Feb","May,Jun",Oct,7,3500,15-32,medium,8,5,10,False
+Darjeeling,West Bengal,east,27.036,88.2627,hill_station,"Mar,Apr,May,Oct,Nov","Jul,Aug","Apr,May",8,4500,5-20,high,9,7,6,False
+Gangtok,Sikkim,northeast,27.3389,88.6065,hill_station,"Mar,Apr,May,Oct,Nov","Jul,Aug","Apr,May",7,5000,6-22,high,9,6,6,False
+Pelling,Sikkim,northeast,27.3,88.2333,nature,"Mar,Apr,May,Oct,Nov","Jul,Aug","Apr,May",6,4500,7-22,high,8,6,5,False
+Kaziranga,Assam,northeast,26.5775,93.1711,wildlife,"Nov,Dec,Jan,Feb,Mar,Apr","Jun,Jul,Aug","Dec,Jan",7,5000,10-28,medium,9,6,6,False
+Shillong,Meghalaya,northeast,25.5788,91.8933,hill_station,"Oct,Nov,Dec,Jan,Feb,Mar,Apr","Jun,Jul",Dec,6,4500,10-25,high,8,6,7,False
+Cherrapunji,Meghalaya,northeast,25.2702,91.7326,nature,"Oct,Nov,Dec,Jan,Feb,Mar","Jun,Jul,Aug",Dec,6,4500,10-23,high,8,6,6,False
+Tawang,Arunachal Pradesh,northeast,27.5866,91.859,mountain,"Apr,May,Jun,Sep,Oct","Dec,Jan,Feb","May,Jun",6,5500,-2-18,medium,9,6,4,False
+Andaman Islands,Andaman and Nicobar,island,11.7401,92.6586,island,"Oct,Nov,Dec,Jan,Feb,Mar,Apr","Jun,Jul,Aug","Dec,Jan",8,7000,23-31,medium,9,7,6,False
+Lakshadweep,Lakshadweep,island,10.5667,72.6417,island,"Oct,Nov,Dec,Jan,Feb,Mar","Jun,Jul,Aug","Dec,Jan",6,8000,24-31,medium,9,6,5,False
+Khajuraho,Madhya Pradesh,central,24.8318,79.9199,culture,"Oct,Nov,Dec,Jan,Feb,Mar","May,Jun",Dec,6,4000,12-32,low,8,5,7,False
+Bhopal,Madhya Pradesh,central,23.2599,77.4126,city,"Oct,Nov,Dec,Jan,Feb","May,Jun",Dec,6,3500,15-32,low,7,5,9,False
+Bandhavgarh,Madhya Pradesh,central,23.685,81.047,wildlife,"Oct,Nov,Dec,Jan,Feb,Mar,Apr","Jul,Aug","Dec,Jan",7,5500,15-32,medium,9,6,6,False
+Kanha,Madhya Pradesh,central,22.3344,80.6115,wildlife,"Oct,Nov,Dec,Jan,Feb,Mar,Apr","Jul,Aug","Dec,Jan",7,5500,15-32,medium,9,6,6,False
+Satpura,Madhya Pradesh,central,22.54,78.43,wildlife,"Oct,Nov,Dec,Jan,Feb,Mar","Jul,Aug","Dec,Jan",6,5000,15-30,medium,8,5,6,False
+Spiti Valley,Himachal Pradesh,north,32.2461,78.0347,mountain,"May,Jun,Jul,Aug,Sep","Jan,Feb,Mar","Jun,Jul",5,5000,-5-18,low,9,7,3,True
+Tirthan Valley,Himachal Pradesh,north,31.638,77.3445,nature,"Mar,Apr,May,Oct,Nov","Jul,Aug",May,4,4000,8-24,medium,8,6,5,True
+Kalga,Himachal Pradesh,north,32.041,77.356,mountain,"Apr,May,Jun,Sep,Oct","Jan,Feb",May,3,3500,5-20,medium,8,6,3,True
+Chopta,Uttarakhand,north,30.446,79.216,mountain,"Apr,May,Jun,Sep,Oct","Jul,Aug",May,4,3500,2-20,medium,8,6,4,True
+Binsar,Uttarakhand,north,29.648,79.707,nature,"Oct,Nov,Dec,Jan,Feb,Mar","Jul,Aug",Dec,3,3500,5-22,medium,8,5,5,True
+Dholavira,Gujarat,west,23.886,70.214,desert,"Nov,Dec,Jan,Feb","May,Jun",Dec,3,4000,12-30,low,8,4,5,True
+Mandvi,Gujarat,west,22.832,69.352,beach,"Oct,Nov,Dec,Jan,Feb","Jun,Jul,Aug",Dec,4,3500,20-30,medium,7,5,6,True
+Lonar,Maharashtra,west,19.9765,76.52,nature,"Oct,Nov,Dec,Jan,Feb","May,Jun",Dec,3,3000,15-32,low,7,4,6,True
+Agumbe,Karnataka,south,13.5072,75.09,nature,"Oct,Nov,Dec,Jan,Feb","Jun,Jul,Aug",Dec,3,3500,18-28,high,8,5,4,True
+Gokarna,Karnataka,south,14.5479,74.3188,beach,"Oct,Nov,Dec,Jan,Feb,Mar","Jun,Jul,Aug","Dec,Jan",5,4000,22-32,medium,8,6,6,True
+Araku Valley,Andhra Pradesh,south,18.327,82.88,nature,"Oct,Nov,Dec,Jan,Feb","Jun,Jul",Dec,4,3500,12-28,medium,7,5,6,True
+Daringbadi,Odisha,east,19.906,84.122,hill_station,"Oct,Nov,Dec,Jan,Feb","Jun,Jul,Aug",Dec,3,3000,8-25,medium,7,5,5,True
+Ziro,Arunachal Pradesh,northeast,27.633,93.833,nature,"Mar,Apr,May,Oct,Nov","Jun,Jul",Sep,4,4000,10-24,medium,8,5,4,True
+Majuli,Assam,northeast,26.95,94.2,nature,"Nov,Dec,Jan,Feb,Mar","Jun,Jul,Aug",Dec,4,3500,12-28,high,8,5,4,True
+Tawang Valley,Arunachal Pradesh,northeast,27.55,91.88,mountain,"Apr,May,Jun,Sep,Oct","Dec,Jan,Feb",May,4,5000,-2-18,medium,9,6,3,True
+Chaukori,Uttarakhand,north,29.906,80.042,mountain,"Oct,Nov,Dec,Jan,Feb,Mar","Jul,Aug",Dec,3,3500,5-20,medium,8,5,4,True
+Mechuka,Arunachal Pradesh,northeast,28.597,94.125,mountain,"Mar,Apr,May,Oct,Nov","Jun,Jul","Apr,May",3,4500,5-22,medium,8,6,3,True
+Netarhat,Jharkhand,east,23.474,84.267,hill_station,"Oct,Nov,Dec,Jan,Feb","Jun,Jul",Dec,3,3000,10-26,medium,7,4,5,True
+Orchha,Madhya Pradesh,central,25.351,78.64,culture,"Oct,Nov,Dec,Jan,Feb,Mar","May,Jun",Dec,4,3500,12-32,low,8,5,6,True
+Pangong Village,Ladakh,north,33.742,78.975,mountain,"May,Jun,Jul,Aug,Sep","Jan,Feb,Mar","Jun,Jul",4,6000,-5-15,low,9,7,3,True
