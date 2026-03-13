@@ -55,7 +55,7 @@ if start_date and end_date:
     )
     ranked_results = compute_travel_scores(results, crowd_pref)
 
-    st.subheader("Top Travel Recommendations")
+st.subheader("Top Travel Recommendations")
 
 top_results = ranked_results.head(10)
 
@@ -78,7 +78,47 @@ for _, row in top_results.iterrows():
 
         st.progress(row["travel_score"] / 100)
 
+        with st.expander("ℹ️ Why this score?"):
+
+            st.write("Score Breakdown")
+
+            st.write(f"Season suitability: {row['season_score']}/10")
+            st.write(f"Crowd match: {row['crowd_match']}/10")
+            st.write(f"Accessibility: {row['accessibility_score']}/10")
+            st.write(f"Budget friendliness: {row['budget_score']:.1f}/10")
+
+            st.write("⚠ Factors lowering the score:")
+
+            for p in row["penalties"]:
+                st.write(f"- {p}")
+
         st.divider()
+
+
+# st.subheader("Top Travel Recommendations")
+
+# top_results = ranked_results.head(10)
+
+# for _, row in top_results.iterrows():
+
+#     with st.container():
+
+#         col1, col2, col3 = st.columns([3,1,1])
+
+#         with col1:
+#             st.markdown(f"### {row['destination']}")
+#             st.write(f"📍 {row['state']}")
+#             st.write(f"Type: {row['destination_type']}")
+
+#         with col2:
+#             st.metric("Travel Score", f"{row['travel_score']}/100")
+
+#         with col3:
+#             st.metric("Budget/day", f"₹{row['budget_per_day_inr']}")
+
+#         st.progress(row["travel_score"] / 100)
+
+#         st.divider()
     # st.subheader("Recommended Destinations")
 
     # if results.empty:
